@@ -1,0 +1,170 @@
+
+div {
+    /*width: 100px;*/
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+}
+
+body {	
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em;
+	margin-top: 0.1em;
+	margin-right: 0.1em;
+	margin-bottom: 0.1em;
+	margin-left: 0.1em
+	/*background-image: url('http://bit.ly/UpQgJ6');*/
+	}
+form {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em
+	}
+h1 {
+	text-align: center;
+	}
+h2 {
+	color: #CCCCCC;
+	text-align: center;
+	}
+h3 {
+	color: #CCCCCC
+	}
+h4 {
+	color: #000000
+	}
+input {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em
+	}
+li {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em
+	}
+ol {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	list-style-type: decimal;	
+	list-style-position: outside
+	}
+select {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em
+	}
+table {
+	color: #FFFFFF
+	}
+td, th {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em
+	}
+textarea {
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em
+	}
+ul {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em;	
+	list-style-type: square;	
+	list-style-position: outside
+	}
+.BulletBackgroundColor {
+	color: #FFFFFF
+	}
+.DataColor {
+	color: #DEDECA
+	}
+.footer {	
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	font-size: .75em;	
+	color: #999999
+	}
+.FormBackgroundColor {
+	color: #CCCCCC
+	}
+.ImageTitleColor {
+	color: #CCCCCC
+	}
+.LabelColor {
+	color: #CCCCCC
+	}
+.ListColorEven {
+	color: #CCCCCC
+	}
+.ListFooterColor {
+	color: #333333
+	}
+.ListHeaderColor {
+	color: #333333
+	}
+.ListColorOdd {
+	color: #DEDECA
+	}
+.ListTitleColor {
+	color: #CCCCCC
+	}
+.NavigationBackgroundColor {
+	color: #666666
+	}
+.NavigationColor {
+	color: #CCCCCC
+	}
+.NewsDataColor {
+	color: #DEDECA
+	}
+.StoryTitle {
+	color: #000000;
+	font-weight: bold
+	}
+.StoryContentColor {
+	color: #000000
+	}
+.TitleColor {
+	color: #000000
+	}body.sub {
+	margin: 0.1em;
+
+	}
+tr.ListHeaderColor th {
+	text-align: left;
+	}.small {
+	font-size: 85%;
+}
+/*Begin my code here - Shanta*/
+.button{
+	height: 10px;
+/*    width: 70px; */
+    display: inline-block;
+    background-color: purple;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+#endButton, #hideButton{
+	width: 150px;
+}
+/*#all{
+	height: 100px;
+	width: 500px;
+	border-width: 5px;
+	border-color: black;
+    border-style: solid;
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.section{
+	width: 400px;
+	border-width: 5px;
+	border-color: black;
+    border-style: solid;
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+}*/

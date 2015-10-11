@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src ="C:\Users\Shanta\Desktop\Athabasca\EDPY479\Assignments\Assignment6END\scripts\jquery-1.10.2.min"></script>
+</script>
+	<script type="text/javascript" src="script.js"></script>
+	<title>Shanta's Quiz Using jQuery</title>
+
+</head>
+
+<body>
+	<h1>Shanta's All in one jQuery Quiz</h1>
+	<h2>Assignment 6 - EDPY479</h2>
+	<div id = "intro">
+		<p>How many questions would you like to do?</p>
+			<input type="integer" name="tQuestion" id="tQuestion"/>
+			<div class = "button" id = "start">Let's Go!</div>
+	</div>
+		<div class = "section" id = "section1">
+			<div class = "question" id = "question1">Question <span id="qNum"></span><br/>
+				<span id="qQues"></span>
+				<form name="uAnswerForm">
+					<input type="integer" id="uAnswer"/>
+				</form>
+			</div>
+			<div class = "button" id = "result1">Check My Answer</div>
+			<div class = "answer" id = "answer1"></div>
+			<div class = "button" id = "next1">Next Question</div>
+		</div>
+		<div id = "endit">
+	 		<div id = "result">
+			</div>
+			<div class ="button" id ="lastpage">
+				<a href="end.html">Exit the quiz</a>
+			</div>
+		</div>
+
+</body>
+</html>
